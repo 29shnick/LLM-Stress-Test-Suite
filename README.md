@@ -1,3 +1,9 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![AI-Certified](https://img.shields.io/badge/Google_AI-Certified-blue.svg)
+![Evaluator](https://img.shields.io/badge/Role-AI_Evaluator-orange.svg)
+![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20ES%20%7C%20MK%20%7C%20SR-green.svg)
+
+---
 # 🛡️ AI Benchmark: The "Groundedness vs. Logic" Paradox
 
 ## 📌 Overview
